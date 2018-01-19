@@ -1,0 +1,52 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-linkedin": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    }
+  }
+}
