@@ -2,10 +2,10 @@
 <widget id="lhidalgo42.ikigaifoundation.com" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Ikigai</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        The Ikigai Foundation
     </description>
     <author email="lhidalgosep@gmail.com" href="http://facebook.com/leoohidalgo"> Leonardo Hidalgo </author>
-    <content src="index.html" />
+    <content src="http://app.glocalq.com/login" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />

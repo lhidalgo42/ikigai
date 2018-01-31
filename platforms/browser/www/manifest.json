@@ -4,8 +4,8 @@
   "name": "Ikigai",
   "short_name": "Ikigai",
   "version": "lhidalgo42.ikigaifoundation.com",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "description": "The Ikigai Foundation",
   "author": "Leonardo Hidalgo",
   "icons": [],
-  "start_url": "index.html"
+  "start_url": "http://app.glocalq.com/login"
 }

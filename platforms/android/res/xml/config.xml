@@ -38,12 +38,16 @@
     <feature name="Vibration">
         <param name="android-package" value="org.apache.cordova.vibration.Vibration" />
     </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
     <name>Ikigai</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        The Ikigai Foundation
     </description>
     <author email="lhidalgosep@gmail.com" href="http://facebook.com/leoohidalgo"> Leonardo Hidalgo </author>
-    <content src="index.html" />
+    <content src="http://app.glocalq.com/login" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -51,6 +55,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <allow-navigation href="*" />
     <icon density="ldpi" src="www/res/icon/android/drawable-ldpi-icon.png" />
     <icon density="mdpi" src="www/res/icon/android/drawable-mdpi-icon.png" />
     <icon density="hdpi" src="www/res/icon/android/drawable-hdpi-icon.png" />
@@ -73,4 +78,6 @@
     <preference name="loglevel" value="DEBUG" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
+    <preference name="Fullscreen" value="true" />
+    <preference name="Orientation" value="portrait" />
 </widget>

@@ -39,6 +39,9 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "lhidalgo42.ikigaifoundation.com"
     }
   },
   "dependent_plugins": {
